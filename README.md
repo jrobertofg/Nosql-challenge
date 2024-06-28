@@ -8,7 +8,7 @@ You've been contracted by the editors of a food magazine, Eat Safe, Love, to eva
 -NoSQL_Setup_starter
 -NoSQL_analysis_starter
 Resources
--establishments.json
+-establishments.json is in Zip due to size. 
 
 #To run the project 
 -jupyter notebooks
